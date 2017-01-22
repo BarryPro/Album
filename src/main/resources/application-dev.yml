@@ -1,0 +1,20 @@
+spring:
+  mvc:
+    #  视图层
+    view:
+      prefix: /templates/
+      suffix: .ftl
+  freemarker:
+      cache: false
+      enabled: true
+      request-context-attribute: request
+      expose-session-attributes: true
+      expose-request-attributes: true
+      allow-session-override: true
+      expose-spring-macro-helpers: true
+  profiles:
+    include: server
+
+
+
+
