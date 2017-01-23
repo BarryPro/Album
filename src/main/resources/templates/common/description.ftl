@@ -2,17 +2,20 @@
     <ul>
         <li>
             <h4>Model Bio 1</h4>
-            <p>小可爱婴儿肥！</p>
+            <p>千秋无绝色！悦目是佳人！倾国倾城貌！惊为天下人！<br/>
+               芙蓉不及美人妆，水殿风来珠翠香<br/>
+               态浓意远淑且真，肌理细腻骨肉匀 </p>
         </li>
         <li>
             <h4>Model Bio 2</h4>
-            <p>Praesent vestibulum molestielacus. Aenean non ummy hen drerit uris. Phasellus porta. Fusce suscipit
-                rius mium ociis natoque penatibus et.</p>
+            <p>俏丽若三春之桃，清素若九秋之菊<br/>
+               眉梢眼角藏秀气，声音笑貌露温柔<br/>
+               翩若惊鸿，婉若游龙<br/>
+               美人既醉，朱颜酡些 </p>
         </li>
         <li>
             <h4>Model Bio 3</h4>
-            <p>Praesent vestibulum molestielacus. Aenean non ummy hen drerit uris. Phasellus porta. Fusce suscipit
-                rius mium ociis natoque penatibus et.</p>
+            <p>这张真的好有女人味儿，太美了！</p>
         </li>
         <li>
             <h4>Model Bio 4</h4>
