@@ -17,9 +17,25 @@
             $("#_pause_").click(function(){
                 console.log("开始");
                 console.log("得到audio");
-                var music = document.getElementById("_music_")//得到audio标签
-                music.pause();
-
+                var music = document.getElementById("_music_");//得到audio标签
+                console.log(music);
+                if(music!=null){
+                    console.log(music);
+                    music.pause();
+                    console.log("pause");
+                }
+                console.log("结束");
+            })
+            $("#_play_").click(function(){
+                console.log("开始");
+                console.log("得到audio");
+                var music = document.getElementById("_music_");//得到audio标签
+                console.log(music);
+                if(music!=null){
+                    console.log(music);
+                    music.play();
+                    console.log("play");
+                }
                 console.log("结束");
             })
         </script>
