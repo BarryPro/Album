@@ -25,7 +25,6 @@
     <script type="text/javascript" src="static/js/scripts.js"></script>
     <script>
         $(function () {
-
             $('.features_slider').bxSlider({
                 auto: false,
                 displaySlideQty: 5,
@@ -41,7 +40,6 @@
             $('#pane1,#pane2,#pane3,#pane4').jScrollPane();
         });
     </script>
-    <script type="text/javascript" src="static/js/init.js"></script>
     <!--[if lt IE 9]>
     <script type="text/javascript" src="static/js/html5.js">
     </script> <![endif]-->

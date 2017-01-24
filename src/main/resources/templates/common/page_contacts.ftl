@@ -3,11 +3,10 @@
         <section class="col3">
             <h2>how to find us</h2>
             <figure class="google_map"></figure>
-            <div class="address"><span class="color1">1234 Abort Road, London, D01 23GB.</span>
-                <p> Mobile: <span class="right">+1 234 567 8900</span><br/>
-                    Telephone: <span class="right">+1 234 567 8900</span><br/>
-                    Fax: <span class="right">+1 234 567 8900</span><br/>
-                    E-mail: <a class="mailLink" href="mailto:">info@dummylink.com</a></p>
+            <div class="address"><span class="color1">联系方式如下：</span>
+                <p> QQ: <span class="right">1278423697</span><br/>
+                    Telephone: <span class="right">18246071553</span><br/>
+                    E-mail: <a class="mailLink" href="mailto:">  1278423697@qq.com</a></p>
             </div>
         </section>
         <div class="col3 right" style="margin-left:70px;">

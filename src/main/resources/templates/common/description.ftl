@@ -2,16 +2,11 @@
     <ul>
         <li>
             <h4>Model Bio 1</h4>
-            <p>千秋无绝色！悦目是佳人！倾国倾城貌！惊为天下人！<br/>
-               芙蓉不及美人妆，水殿风来珠翠香<br/>
-               态浓意远淑且真，肌理细腻骨肉匀 </p>
+            <p>好吧，我承认，姐姐今天终于18了，昨天让你们一顿虐，今天祝我生日快乐吧</p>
         </li>
         <li>
             <h4>Model Bio 2</h4>
-            <p>俏丽若三春之桃，清素若九秋之菊<br/>
-               眉梢眼角藏秀气，声音笑貌露温柔<br/>
-               翩若惊鸿，婉若游龙<br/>
-               美人既醉，朱颜酡些 </p>
+            <p>才发现这个软件完了，手机内存不够了</p>
         </li>
         <li>
             <h4>Model Bio 3</h4>
@@ -19,133 +14,107 @@
         </li>
         <li>
             <h4>Model Bio 4</h4>
-            <p>Praesent vestibulum molestielacus. Aenean non ummy hen drerit uris. Phasellus porta. Fusce suscipit
-                rius mium ociis natoque penatibus et.</p>
+            <p>天气越来越暖了，本来只准备爬爬北山的没想到最后去了牡丹峰幸好我们坚持下来了😎😎😎</p>
         </li>
         <li>
             <h4>Model Bio 5</h4>
-            <p>Praesent vestibulum molestielacus. Aenean non ummy hen drerit uris. Phasellus porta. Fusce suscipit
-                rius mium ociis natoque penatibus et.</p>
+            <p>  古德拜，牡丹江～～</p>
         </li>
         <li>
             <h4>Model Bio 6</h4>
-            <p>Praesent vestibulum molestielacus. Aenean non ummy hen drerit uris. Phasellus porta. Fusce suscipit
-                rius mium ociis natoque penatibus et.</p>
+            <p>回母校看了看，嗯，变化挺大</p>
         </li>
         <li>
             <h4>Model Bio 7</h4>
-            <p>Praesent vestibulum molestielacus. Aenean non ummy hen drerit uris. Phasellus porta. Fusce suscipit
-                rius mium ociis natoque penatibus et.</p>
+            <p>昨天到的家，今天睡死过去，躺在床上都觉得所有东西都在晃，才活过来</p>
         </li>
         <li>
             <h4>Model Bio 8</h4>
-            <p>Praesent vestibulum molestielacus. Aenean non ummy hen drerit uris. Phasellus porta. Fusce suscipit
-                rius mium ociis natoque penatibus et.</p>
+            <p>我也出发了</p>
         </li>
         <li>
             <h4>Model Bio 9</h4>
-            <p>Praesent vestibulum molestielacus. Aenean non ummy hen drerit uris. Phasellus porta. Fusce suscipit
-                rius mium ociis natoque penatibus et.</p>
+            <p>看定位~我觉得应该比我们师院男生多 就来这了</p>
         </li>
         <li>
             <h4>Model Bio 10</h4>
-            <p>Praesent vestibulum molestielacus. Aenean non ummy hen drerit uris. Phasellus porta. Fusce suscipit
-                rius mium ociis natoque penatibus et.</p>
+            <p>走啊走走转眼就长大照片太多了哪个都想发!</p>
         </li>
         <li>
             <h4>Model Bio 11</h4>
-            <p>Praesent vestibulum molestielacus. Aenean non ummy hen drerit uris. Phasellus porta. Fusce suscipit
-                rius mium ociis natoque penatibus et.</p>
+            <p>看定位~我觉得应该比我们师院男生多 就来这了</p>
         </li>
         <li>
             <h4>Model Bio 12</h4>
-            <p>Praesent vestibulum molestielacus. Aenean non ummy hen drerit uris. Phasellus porta. Fusce suscipit
-                rius mium ociis natoque penatibus et.</p>
+            <p>走啊走走转眼就长大照片太多了哪个都想发</p>
         </li>
         <li>
             <h4>Model Bio 13</h4>
-            <p>Praesent vestibulum molestielacus. Aenean non ummy hen drerit uris. Phasellus porta. Fusce suscipit
-                rius mium ociis natoque penatibus et.</p>
+            <p>高考加油！！！我在这等你们</p>
         </li>
         <li>
             <h4>Model Bio 14</h4>
-            <p>Praesent vestibulum molestielacus. Aenean non ummy hen drerit uris. Phasellus porta. Fusce suscipit
-                rius mium ociis natoque penatibus et.</p>
+            <p>神奇的大自然❤❤❤</p>
         </li>
         <li>
             <h4>Model Bio 15</h4>
-            <p>Praesent vestibulum molestielacus. Aenean non ummy hen drerit uris. Phasellus porta. Fusce suscipit
-                rius mium ociis natoque penatibus et.</p>
+            <p>距离2016年还有多长时间😳跨年夜❤❤❤今天我们自己买菜，自己做火锅，在宾馆里一起看跨年演唱会，打扑克😂😂😂该看哪个台好呢，芒果？浙江？</p>
         </li>
         <li>
             <h4>Model Bio 16</h4>
-            <p>Praesent vestibulum molestielacus. Aenean non ummy hen drerit uris. Phasellus porta. Fusce suscipit
-                rius mium ociis natoque penatibus et.</p>
+            <p>我也出发了</p>
         </li>
         <li>
             <h4>Model Bio 17</h4>
-            <p>Praesent vestibulum molestielacus. Aenean non ummy hen drerit uris. Phasellus porta. Fusce suscipit
-                rius mium ociis natoque penatibus et.</p>
+            <p>天气越来越暖了，本来只准备爬爬北山的没想到最后去了牡丹峰幸好我们坚持下来了😎😎😎</p>
         </li>
         <li>
             <h4>Model Bio 18</h4>
-            <p>Praesent vestibulum molestielacus. Aenean non ummy hen drerit uris. Phasellus porta. Fusce suscipit
-                rius mium ociis natoque penatibus et.</p>
+            <p>最近❤❤那个塔好像是歪的</p>
         </li>
         <li>
             <h4>Model Bio 19</h4>
-            <p>Praesent vestibulum molestielacus. Aenean non ummy hen drerit uris. Phasellus porta. Fusce suscipit
-                rius mium ociis natoque penatibus et.</p>
+            <p>牡丹江~~~~济南</p>
         </li>
         <li>
             <h4>Model Bio 20</h4>
-            <p>Praesent vestibulum molestielacus. Aenean non ummy hen drerit uris. Phasellus porta. Fusce suscipit
-                rius mium ociis natoque penatibus et.</p>
+            <p>走啊走走转眼就长大照片太多了哪个都想发</p>
         </li>
         <li>
             <h4>Model Bio 21</h4>
-            <p>Praesent vestibulum molestielacus. Aenean non ummy hen drerit uris. Phasellus porta. Fusce suscipit
-                rius mium ociis natoque penatibus et.</p>
+            <p>怎么办？我觉得头发越长就越舍不得剪了你们都怎么下的去手的觉得得了一种看见镜子就要拍照的病（存照）</p>
         </li>
         <li>
             <h4>Model Bio 22</h4>
-            <p>Praesent vestibulum molestielacus. Aenean non ummy hen drerit uris. Phasellus porta. Fusce suscipit
-                rius mium ociis natoque penatibus et.</p>
+            <p>幸福是就算没有男盆友还会有闺蜜说爱你14年。15年。16年。还有好多年。希望我还是你的大宝贝儿，你还是我的赵大迪，生日快乐！！！！终于19岁了</p>
         </li>
         <li>
             <h4>Model Bio 23</h4>
-            <p>Praesent vestibulum molestielacus. Aenean non ummy hen drerit uris. Phasellus porta. Fusce suscipit
-                rius mium ociis natoque penatibus et.</p>
+            <p>牡丹江~~~~济南</p>
         </li>
         <li>
             <h4>Model Bio 24</h4>
-            <p>Praesent vestibulum molestielacus. Aenean non ummy hen drerit uris. Phasellus porta. Fusce suscipit
-                rius mium ociis natoque penatibus et.</p>
+            <p>大晚上给你们放毒，仅仅一周，就吃了这么多猜猜图三里哪个是我做的</p>
         </li>
         <li>
             <h4>Model Bio 25</h4>
-            <p>Praesent vestibulum molestielacus. Aenean non ummy hen drerit uris. Phasellus porta. Fusce suscipit
-                rius mium ociis natoque penatibus et.</p>
+            <p>每回上完游泳课，耳朵都会进水，而且短时间不会出来，一般晚上睡觉的时候会自己流出来我就等晚上的！</p>
         </li>
         <li>
             <h4>Model Bio 26</h4>
-            <p>Praesent vestibulum molestielacus. Aenean non ummy hen drerit uris. Phasellus porta. Fusce suscipit
-                rius mium ociis natoque penatibus et.</p>
+            <p>我读书少，你们别骗我</p>
         </li>
         <li>
             <h4>Model Bio 27</h4>
-            <p>Praesent vestibulum molestielacus. Aenean non ummy hen drerit uris. Phasellus porta. Fusce suscipit
-                rius mium ociis natoque penatibus et.</p>
+            <p>最近❤❤那个塔好像是歪的</p>
         </li>
         <li>
             <h4>Model Bio 28</h4>
-            <p>Praesent vestibulum molestielacus. Aenean non ummy hen drerit uris. Phasellus porta. Fusce suscipit
-                rius mium ociis natoque penatibus et.</p>
+            <p>Today～北京今天阳光超美腻，天蓝蓝的，吃到撑，逛到累，拍到手机没有电（第九张像不像一本书的封皮，我忘了是什么书了，好熟悉）</p>
         </li>
         <li>
             <h4>Model Bio 29</h4>
-            <p>Praesent vestibulum molestielacus. Aenean non ummy hen drerit uris. Phasellus porta. Fusce suscipit
-                rius mium ociis natoque penatibus et.</p>
+            <p>好不容易天暖了，可又热的要命，过个年，我好像都忘记怎么自拍了</p>
         </li>
     </ul>
 </div>
