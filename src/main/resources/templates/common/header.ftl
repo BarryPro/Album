@@ -2,12 +2,12 @@
     <h1><a href="#!/" id="logo">Fashon</a></h1>
     <nav class="menu">
         <ul id="menu">
-            <li><a href="#!/page_blog">Home</a></li>
+            <li><a href="#!/page_blog" value="0">Home</a></li>
             <li><a href="#!/page_main">Card</a></li>
-            <li class="with_ul"><a href="#!/">Music</a>
+            <li class="with_ul"><a href="javascript:void()">Music</a>
                 <ul class="submenu">
-                    <li><a href="#!/" id="_pause_">暂停</a></li>
-                    <li><a href="#!/" id="_play_">播放</a></li>
+                    <li><a href="javascript:void()" id="_pause_">暂停</a></li>
+                    <li><a href="javascript:void()" id="_play_">播放</a></li>
                 </ul>
             </li>
             <li><a href="#!/page_services">Secret</a></li>

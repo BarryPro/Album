@@ -232,14 +232,16 @@
             <img src="images/gallery/29.jpg" width="240" height="240" alt=""/>
         </a>
     </div>
+    <#--隐藏的音乐播放器-->
     <div id="my_music">
-        <audio controls src="" autoplay id="_music_"></audio>
+        <audio src="music/-1.mp3" autoplay id="_music_" loop></audio>
     </div>
+    <#--得到项目的路径-->
     <input type="hidden" value="${my_path}" id="_path"/>
     <script type="text/javascript">
         $(function () {
             console.log("start");
-            $(".item a").click(function () {
+            $("a").click(function () {
                 var reg = /^[0-9]*$/;//正则表达式
                 var id = $(this).attr("value");//得到music_id
                 if (reg.test(id)) {

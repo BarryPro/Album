@@ -9,21 +9,21 @@
                             <div class="bwWrapper"><img src="images/intro/25_hover.jpg" style="width: 280px" alt=""/></div>
                             <div class="desc">
                                 <h4>清爽型</h4>
-                                <p>还记得一起上学的时候，</p>
+                                <p><#include "../txt/清爽型.txt"></p>
                             </div>
                         </li>
                         <li>
                             <div class="bwWrapper"><img src="images/intro/3_hover.jpg" style="width: 280px" alt=""/></div>
                             <div class="desc">
                                 <h4>女人型</h4>
-                                <p></p>
+                                <p><#include "../txt/女人型.txt"></p>
                             </div>
                         </li>
                         <li>
                             <div class="bwWrapper"><img src="images/intro/26_hover.jpg" style="width: 280px" alt=""/></div>
                             <div class="desc">
-                                <h4>女孩型</h4>
-                                <p></p>
+                                <h4>少女型</h4>
+                                <p><#include "../txt/少女型.txt"></p>
                             </div>
                         </li>
                     </ul>
