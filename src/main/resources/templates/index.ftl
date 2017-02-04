@@ -46,6 +46,7 @@
         // 淡出效果
         $('.page_spinner').fadeOut(600);
         $('body').css({overflow: 'visible'})
+
     }) </script>
 
 
