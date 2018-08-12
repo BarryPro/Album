@@ -4,12 +4,6 @@
         <ul id="menu">
             <li><a href="#!/page_blog" value="0">Home</a></li>
             <li><a href="#!/page_main">Card</a></li>
-            <li class="with_ul"><a href="javascript:void()">Music</a>
-                <ul class="submenu">
-                    <li><a href="javascript:void()" id="_pause_">暂停</a></li>
-                    <li><a href="javascript:void()" id="_play_">播放</a></li>
-                </ul>
-            </li>
             <li><a href="#!/page_services">Secret</a></li>
             <li><a href="#!/page_contacts">Contacts</a></li>
         </ul>
